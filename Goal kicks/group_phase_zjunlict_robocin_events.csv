@@ -1,0 +1,10 @@
+kick_event,timestamp_ball,id_jogador_chutou,cor_jogador_chutou,id_goleiro,cor_goleiro,gol
+kickEvent18,357.437340672,3,yellow,0,blue,0
+kickEvent37,761.958477824,2,blue,10,yellow,0
+kickEvent38,776.517573376,11,yellow,0,blue,0
+kickEvent64,1717.667261440,14,yellow,0,blue,0
+kickEvent77,2248.372084736,5,blue,10,yellow,1
+kickEvent103,3673.231684864,2,yellow,0,blue,1
+kickEvent135,4507.249155840,6,blue,10,yellow,0
+kickEvent136,4536.396425984,5,blue,10,yellow,0
+kickEvent151,4883.315287296,3,yellow,0,blue,0
